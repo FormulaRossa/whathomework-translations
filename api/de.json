@@ -1,0 +1,6 @@
+{
+  "verifyEmail.subject": "E-Mail-Adresse bestätigen",
+  "verifyEmail": "Guten Tag\n\nVielen Dank, dass Sie sich auf der Website {{{url}}} registriert haben.\nUm ihre E-Mail zu bestätigen, klicken Sie bitte auf folgenden Link:\n\n{{{link}}}\n\nSie haben sich nicht registriert?\nDann können Sie diese E-Mail einfach ignorieren.\n\n******\nDies ist eine automatisch generierte E-Mail. Bitte antworten Sie nicht auf diese E-Mail.\n******",
+  "forgotPassword.subject": "Passwort vergessen",
+  "forgotPassword": "Guten Tag\n\nSie haben ein neues Passwort für die Website {{{url}}} angefordert.\nUm ihr Passwort zu ändern, klicken Sie bitte auf folgenden Link:\n\n{{{link}}}\n\nSie haben kein neues Passwort angefordert?\nDann können Sie diese E-Mail einfach ignorieren.\n\n******\nDies ist eine automatisch generierte E-Mail. Bitte antworten Sie nicht auf diese E-Mail.\n******"
+}
