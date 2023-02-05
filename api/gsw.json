@@ -1,3 +1,6 @@
 {
-    "verifyEmail.subject": "E-Mail bestätige"
+    "verifyEmail.subject": "E-Mail bestätige",
+    "verifyEmail": "Guete Tag\n\nViele Dank, dass Sie sich uf de Website {{{url}} registriert hend.\nUm Ihri E-Mail z'Bestätige, klicked Sie bitte uf de folgende Link:\n\n{{{link}}\n\nSie hend sich ned registriert?\nDenn chönd Sie die Mail eifach ignoriere.\n\n******\nDas esch en automatisch generierti E-Mail. Bitte antwortet Sie ned uf die E-Mail.\n******",
+    "forgotPassword.subject": "Passwort vergesse",
+    "forgotPassword": "Guete Tag\n\nSie hend es neus Passwort för d'Website {{{url}} agforderet.\nUm ihres Passwort z ändere, klicked Sie bitte uf de folgende Link:\n\n{{{link}}\n\nSie hend keis neus Passwort agforderet?\nDenn chönd Sie die Mail eifach ignoriere.\n\n******\nDas esch en automatisch generierti E-Mail. Bitte antwortet Sie ned uf die E-Mail.\n******"
 }

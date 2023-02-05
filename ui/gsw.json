@@ -35,9 +35,9 @@
         },
         "notifications": {
             "enable": "Benachrichtigunge aktivere",
-            "notAvailable": "Push-Benachrichtigungen send i dem Browser leider ned verfüegbar.",
-            "disable": "Benachrichtigungen uf alle Grät deaktivere",
-            "notifications": "Benachrichtigungen"
+            "notAvailable": "Push-Benachrichtigunge send i dem Browser leider ned verfüegbar.",
+            "disable": "Benachrichtigunge uf alle Grät deaktivere",
+            "notifications": "Benachrichtigunge"
         },
         "admin": {
             "admin": "Admin",
@@ -45,7 +45,7 @@
         }
     },
     "login": {
-        "login": "Abmelde",
+        "login": "Amelde",
         "email": "E-Mail",
         "password": "Passwort",
         "forgotPassword": "Passwort vergesse?",
