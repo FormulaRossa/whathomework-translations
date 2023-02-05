@@ -1,161 +1,161 @@
 {
-  "logout": "Logout",
-  "whathomework": "What homework",
-  "login": {
-    "login": "Login",
-    "email": "Mail",
-    "unverified": "Your email is not confirmed yet. You should have received an email from this website. Also check your spam/junk mail folder.",
-    "password": "Password",
-    "forgotPassword": "Forgot password?",
-    "wrong": "Username or password incorrect",
-    "noAccount": "Don't have an account yet?",
-    "register": "Register"
-  },
-  "register": {
-    "register": "Register",
-    "mail": "Mail",
-    "password": "Password",
-    "emailExists": "Account with this email already exists.",
-    "invalidNewPassword": "Invalid new password",
-    "repeatPassword": "Repeat password",
-    "wrongRepeatPassword": "Passwords don't match",
-    "accountCreated": "Account created successfully. You have received an email where you can confirm your email. You must do this before you can log in. Also check your spam/junk mail folder."
-  },
-  "forgotPassword": {
-    "forgotPassword": "Forgot password?",
-    "mail": "Mail",
-    "invalidMail": "Invalid mail",
-    "sent": "Your password reset email has been sent.",
-    "noMail": "Didn't receive an email? Check your input for typing errors.",
-    "resetPassword": "Reset password"
-  },
-  "internetModal": {
-    "noConnection": "No connection",
-    "connectionFailed": "Cannot connect to the server. Please check your internet connection.",
-    "connected": "You are connected to the Internet? Check the status of the server here:",
-    "status": "Status"
-  },
-  "verify": {
-    "invalidLink": "Link not valid",
-    "success": "Successfully confirmed",
-    "toLogin": "To Login"
-  },
-  "tasks": {
-    "tasks": "Tasks",
-    "task": "Task",
-    "noTasks": "No tasks available.",
-    "subject": "Subject",
-    "subjectNotSelected": "Please select a subject.",
-    "title": "Task",
-    "titleEmpty": "Task can't be empty.",
-    "date": "Date",
-    "exam": "Exam",
-    "add": "Add"
-  },
-  "deleteModal": {
-    "confirm": "Delete confirmation",
-    "confirmation": "Are you sure you want to remove this task?",
-    "cancel": "Cancel",
-    "delete": "Delete"
-  },
-  "settings": {
-    "settings": "Settings",
-    "account": {
-      "account": "Account",
-      "changePassword": {
-        "changePassword": "Change password",
-        "oldPassword": "Old password",
-        "oldPasswordWrong": "Old password is incorrect",
-        "newPassword": "New password",
+    "logout": "Logout",
+    "whathomework": "What homework",
+    "login": {
+        "login": "Login",
+        "email": "Mail",
+        "unverified": "Your email is not confirmed yet. You should have received an email from this website. Also check your spam/junk mail folder.",
+        "password": "Password",
+        "forgotPassword": "Forgot password?",
+        "wrong": "Username or password incorrect",
+        "noAccount": "Don't have an account yet?",
+        "register": "Register"
+    },
+    "register": {
+        "register": "Register",
+        "mail": "Mail",
+        "password": "Password",
+        "emailExists": "Account with this email already exists.",
         "invalidNewPassword": "Invalid new password",
+        "repeatPassword": "Repeat password",
+        "wrongRepeatPassword": "Passwords don't match",
+        "accountCreated": "Account created successfully. You have received an email where you can confirm your email. You must do this before you can log in. Also check your spam/junk mail folder."
+    },
+    "forgotPassword": {
+        "forgotPassword": "Forgot password?",
+        "mail": "Mail",
+        "invalidMail": "Invalid mail",
+        "sent": "Your password reset email has been sent.",
+        "noMail": "Didn't receive an email? Check your input for typing errors.",
+        "resetPassword": "Reset password"
+    },
+    "internetModal": {
+        "noConnection": "No connection",
+        "connectionFailed": "Cannot connect to the server. Please check your internet connection.",
+        "connected": "You are connected to the Internet? Check the status of the server here:",
+        "status": "Status"
+    },
+    "verify": {
+        "invalidLink": "Link not valid",
+        "success": "Successfully confirmed",
+        "toLogin": "To Login"
+    },
+    "tasks": {
+        "tasks": "Tasks",
+        "task": "Task",
+        "noTasks": "No tasks available.",
+        "subject": "Subject",
+        "subjectNotSelected": "Please select a subject.",
+        "title": "Task",
+        "titleEmpty": "Task can't be empty.",
+        "date": "Date",
+        "exam": "Exam",
+        "add": "Add"
+    },
+    "deleteModal": {
+        "confirm": "Delete confirmation",
+        "confirmation": "Are you sure you want to remove this task?",
+        "cancel": "Cancel",
+        "delete": "Delete"
+    },
+    "settings": {
+        "settings": "Settings",
+        "account": {
+            "account": "Account",
+            "changePassword": {
+                "changePassword": "Change password",
+                "oldPassword": "Old password",
+                "oldPasswordWrong": "Old password is incorrect",
+                "newPassword": "New password",
+                "invalidNewPassword": "Invalid new password",
+                "repeatNewPassword": "Repeat password",
+                "passwordsDontMatch": "Passwords don't match",
+                "change": "Modify"
+            }
+        },
+        "subjects": {
+            "subjects": "Subjects",
+            "subject": "Subject",
+            "active": "Active",
+            "name": "Name",
+            "add": "Add"
+        },
+        "calendar": {
+            "calendar": "Calendar",
+            "ics": "ICS-URL",
+            "regenerate": "Regenerate"
+        },
+        "notifications": {
+            "notifications": "Notifications",
+            "enable": "Enable notifications",
+            "notAvailable": "Push messages are not available in this browser.",
+            "disable": "Disable notifications on all devices"
+        },
+        "admin": {
+            "admin": "Admin",
+            "name": "Name"
+        }
+    },
+    "setPassword": {
+        "setPassword": "Set password",
+        "invalidLink": "Link not valid",
         "repeatNewPassword": "Repeat password",
+        "invalidNewPassword": "Invalid new password",
+        "password": "Password",
         "passwordsDontMatch": "Passwords don't match",
-        "change": "Modify"
-      }
+        "passwordSet": "Password successfully set",
+        "toLogin": "To login"
     },
-    "subjects": {
-      "subjects": "Subjects",
-      "subject": "Subject",
-      "active": "Active",
-      "name": "Name",
-      "add": "Add"
-    },
-    "calendar": {
-      "calendar": "Calendar",
-      "ics": "ICS-URL",
-      "regenerate": "Regenerate"
-    },
-    "notifications": {
-      "notifications": "Notifications",
-      "enable": "Enable notifications",
-      "notAvailable": "Push messages are not available in this browser.",
-      "disable": "Disable notifications on all devices"
-    },
-    "admin": {
-      "admin": "Admin",
-      "name": "Name"
+    "date": {
+        "days": {
+            "short": {
+                "1": "Mo",
+                "2": "Tu",
+                "3": "We",
+                "4": "Th",
+                "5": "Fr",
+                "6": "Sa",
+                "7": "Su"
+            },
+            "long": {
+                "1": "Monday",
+                "2": "Tuesday",
+                "3": "Wednesday",
+                "4": "Thursday",
+                "5": "Friday",
+                "6": "Saturday",
+                "7": "Sunday"
+            }
+        },
+        "months": {
+            "short": {
+                "1": "Jan",
+                "2": "Feb",
+                "3": "Mar",
+                "4": "Apr",
+                "5": "May",
+                "6": "Jun",
+                "7": "Jul",
+                "8": "Aug",
+                "9": "Sep",
+                "10": "Oct",
+                "11": "Nov",
+                "12": "Dec"
+            },
+            "long": {
+                "1": "January",
+                "2": "February",
+                "3": "March",
+                "4": "April",
+                "5": "May",
+                "6": "June",
+                "7": "July",
+                "8": "August",
+                "9": "September",
+                "10": "October",
+                "11": "November",
+                "12": "December"
+            }
+        }
     }
-  },
-  "setPassword": {
-    "setPassword": "Set password",
-    "invalidLink": "Link not valid",
-    "repeatNewPassword": "Repeat password",
-    "invalidNewPassword": "Invalid new password",
-    "password": "Password",
-    "passwordsDontMatch": "Passwords don't match",
-    "passwordSet": "Password successfully set",
-    "toLogin": "To login"
-  },
-  "date": {
-    "days": {
-      "short": {
-        "1": "Mo",
-        "2": "Tu",
-        "3": "We",
-        "4": "Th",
-        "5": "Fr",
-        "6": "Sa",
-        "7": "Su"
-      },
-      "long": {
-        "1": "Monday",
-        "2": "Tuesday",
-        "3": "Wednesday",
-        "4": "Thursday",
-        "5": "Friday",
-        "6": "Saturday",
-        "7": "Sunday"
-      }
-    },
-    "months": {
-      "short": {
-        "1": "Jan",
-        "2": "Feb",
-        "3": "Mar",
-        "4": "Apr",
-        "5": "May",
-        "6": "Jun",
-        "7": "Jul",
-        "8": "Aug",
-        "9": "Sep",
-        "10": "Oct",
-        "11": "Nov",
-        "12": "Dec"
-      },
-      "long": {
-        "1": "January",
-        "2": "February",
-        "3": "March",
-        "4": "April",
-        "5": "May",
-        "6": "June",
-        "7": "July",
-        "8": "August",
-        "9": "September",
-        "10": "October",
-        "11": "November",
-        "12": "December"
-      }
-    }
-  }
 }
