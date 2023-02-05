@@ -1,3 +1,9 @@
 {
-    "whathomework": "What homework"
+    "whathomework": "What homework",
+    "login": {
+        "password": "Mot de passe"
+    },
+    "register": {
+        "emailExists": "Un compte avec cet e-mail existe déjà."
+    }
 }
