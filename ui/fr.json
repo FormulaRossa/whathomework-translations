@@ -1,7 +1,9 @@
 {
     "whathomework": "What homework",
     "login": {
-        "password": "Mot de passe"
+        "password": "Mot de passe",
+        "noAccount": "Pas encore de compte ?",
+        "unverified": "Votre e-mail n'a pas encore été confirmé. Vous devriez avoir reçu un e-mail de ce site. Vérifiez également votre dossier spam/junkmail."
     },
     "register": {
         "emailExists": "Un compte avec cet e-mail existe déjà."
