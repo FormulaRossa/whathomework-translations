@@ -1,1 +1,162 @@
-{}
+{
+    "deleteModal": {
+        "confirmation": "Wotsch die Ufgab wörklech lösche?",
+        "confirm": "Löschbestätigung",
+        "cancel": "Abbreche",
+        "delete": "Lösche"
+    },
+    "settings": {
+        "account": {
+            "changePassword": {
+                "invalidNewPassword": "Ungültigs neus Passwort",
+                "changePassword": "Passwort ändere",
+                "oldPassword": "Alts Passwort",
+                "oldPasswordWrong": "Alts Passwort falsch",
+                "newPassword": "Neus Passwort",
+                "repeatNewPassword": "Passwort wederhole",
+                "passwordsDontMatch": "Passwörter send ned glich",
+                "change": "Ändere"
+            },
+            "account": "Konto",
+            "language": "Sproch"
+        },
+        "settings": "Istellige",
+        "subjects": {
+            "subjects": "Fächer",
+            "subject": "Fach",
+            "active": "Aktiv",
+            "name": "Name",
+            "add": "Hinzuefüege"
+        },
+        "calendar": {
+            "calendar": "Kalender",
+            "ics": "ICS-URL",
+            "regenerate": "Neu generiere"
+        },
+        "notifications": {
+            "enable": "Benachrichtigunge aktivere",
+            "notAvailable": "Push-Benachrichtigungen send i dem Browser leider ned verfüegbar.",
+            "disable": "Benachrichtigungen uf alle Grät deaktivere",
+            "notifications": "Benachrichtigungen"
+        },
+        "admin": {
+            "admin": "Admin",
+            "name": "Name"
+        }
+    },
+    "login": {
+        "login": "Abmelde",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "forgotPassword": "Passwort vergesse?",
+        "wrong": "Nutzername oder Passwort falsch",
+        "noAccount": "Hesch no kei Account?",
+        "register": "Registriere",
+        "unverified": "Ihri E-Mail esch nonig bestätigt. Sie söttet es E-Mail vo dere Website erhalte ha. Prüefed Sie au ihre Spam-/Junkmail-Ordner."
+    },
+    "register": {
+        "register": "Registriere",
+        "mail": "E-Mail",
+        "password": "Passwort",
+        "emailExists": "En Account met dere E-Mail existiert scho.",
+        "invalidNewPassword": "Ungültigs neus Passwort",
+        "repeatPassword": "Passwort wederhole",
+        "wrongRepeatPassword": "D Passwörter send ned glich",
+        "accountCreated": "De Account esch erfolgrich erstellt worde. Sie hend es E-Mail erhalte, i dere chönd Sie ihri E-Mail bestätige. Das müend Sie mache, vordem sie sich ilogge chönd. Prüfed sie au ihre Spam-/Junkmail-Ordner."
+    },
+    "forgotPassword": {
+        "forgotPassword": "Passwort vergesse?",
+        "mail": "E-Mail",
+        "invalidMail": "Ungültigi E-Mail",
+        "sent": "En E-Mail zum zruggsetze vom Passwort esch gschickt worde.",
+        "noMail": "Keis E-Mail becho? Überprüefed Sie Ihri Igab uf Tippfehler.",
+        "resetPassword": "Passwort zruggsetze"
+    },
+    "internetModal": {
+        "noConnection": "Kei Verbindig",
+        "connected": "Sie send met em Internet verbunde? Prüfed Sie do de Status vom Server:",
+        "status": "Status",
+        "connectionFailed": "D Verbindig zum Server esch fehlgschlage. Prüefed Sie Ihri Internetverbindig."
+    },
+    "verify": {
+        "invalidLink": "Link ungültig",
+        "success": "Bestätigung erfolgrich",
+        "toLogin": "Zom Login"
+    },
+    "tasks": {
+        "tasks": "Ufgabe",
+        "task": "Ufgabe",
+        "noTasks": "Kei Ufgabe vorhande.",
+        "subject": "Fach",
+        "title": "Uftrag",
+        "titleEmpty": "Uftrag chan ned leer sie.",
+        "date": "Datum",
+        "exam": "Prüefig",
+        "add": "Hinzuefüege",
+        "subjectNotSelected": "Es Fach muess usgwählt were."
+    },
+    "setPassword": {
+        "setPassword": "Passwort setze",
+        "invalidLink": "Link ungültig",
+        "invalidNewPassword": "Ungültigs neus Passwort",
+        "password": "Passwort",
+        "passwordsDontMatch": "Passwörter send ned glich",
+        "passwordSet": "Passwort erfolgrich gesetzt",
+        "repeatNewPassword": "Passwort wederhole",
+        "toLogin": "Zom Login"
+    },
+    "date": {
+        "days": {
+            "short": {
+                "1": "Mä",
+                "2": "Zi",
+                "3": "Mi",
+                "4": "Do",
+                "5": "Fr",
+                "6": "Sa",
+                "7": "Su"
+            },
+            "long": {
+                "1": "Mäntig",
+                "2": "Zistig",
+                "4": "Donnstig",
+                "5": "Fritig",
+                "6": "Samstig",
+                "7": "Sunntig",
+                "3": "Mittwoch"
+            }
+        },
+        "months": {
+            "short": {
+                "2": "Feb",
+                "3": "Mär",
+                "4": "Apr",
+                "5": "Mai",
+                "6": "Jun",
+                "7": "Jul",
+                "8": "Aug",
+                "9": "Sep",
+                "10": "Okt",
+                "11": "Nov",
+                "12": "Dez",
+                "1": "Jan"
+            },
+            "long": {
+                "1": "Januar",
+                "2": "Februar",
+                "3": "März",
+                "4": "April",
+                "5": "Mai",
+                "6": "Juni",
+                "7": "Juli",
+                "8": "August",
+                "9": "September",
+                "10": "Oktober",
+                "11": "November",
+                "12": "Dezember"
+            }
+        }
+    },
+    "logout": "Abmelde",
+    "whathomework": "What homework"
+}
