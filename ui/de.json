@@ -71,7 +71,8 @@
                 "repeatNewPassword": "Passwort wiederholen",
                 "passwordsDontMatch": "Passwörter stimmen nicht überein",
                 "change": "Ändern"
-            }
+            },
+            "language": "Sprache"
         },
         "subjects": {
             "subjects": "Fächer",

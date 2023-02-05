@@ -71,7 +71,8 @@
                 "repeatNewPassword": "Repeat password",
                 "passwordsDontMatch": "Passwords don't match",
                 "change": "Modify"
-            }
+            },
+            "language": "Language"
         },
         "subjects": {
             "subjects": "Subjects",
