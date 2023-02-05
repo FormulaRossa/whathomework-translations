@@ -1,1 +1,6 @@
-{}
+{
+    "verifyEmail.subject": "Confirmer l'adresse e-mail",
+    "verifyEmail": "Bonjour\n\nNous vous remercions de vous être inscrit sur le site {{{url}}}.\nPour confirmer votre e-mail, veuillez cliquer sur le lien suivant :\n\n{{{link}}}\n\nVous n'êtes pas inscrit ?\nDans ce cas, vous pouvez tout simplement ignorer cet e-mail.\n\n******\nIl s'agit d'un e-mail généré automatiquement. Veuillez ne pas répondre à cet e-mail.\n******",
+    "forgotPassword.subject": "Mot de passe oublié",
+    "forgotPassword": "Bonjour\n\nVous avez demandé un nouveau mot de passe pour le site {{{url}}}.\nPour changer votre mot de passe, veuillez cliquer sur le lien suivant :\n\n{{{link}}}\n\nVous n'avez pas demandé de nouveau mot de passe ?\nDans ce cas, vous pouvez tout simplement ignorer cet e-mail.\n\n******\nIl s'agit d'un e-mail généré automatiquement. Veuillez ne pas répondre à cet e-mail.\n******"
+}
