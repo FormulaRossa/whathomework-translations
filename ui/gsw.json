@@ -61,14 +61,14 @@
         "emailExists": "En Account met dere E-Mail existiert scho.",
         "invalidNewPassword": "Ungültigs neus Passwort",
         "repeatPassword": "Passwort wederhole",
-        "wrongRepeatPassword": "D Passwörter send ned glich",
+        "wrongRepeatPassword": "Passwörter send ned glich",
         "accountCreated": "De Account esch erfolgrich erstellt worde. Sie hend es E-Mail erhalte, i dere chönd Sie ihri E-Mail bestätige. Das müend Sie mache, vordem sie sich ilogge chönd. Prüfed sie au ihre Spam-/Junkmail-Ordner."
     },
     "forgotPassword": {
         "forgotPassword": "Passwort vergesse?",
         "mail": "E-Mail",
         "invalidMail": "Ungültigi E-Mail",
-        "sent": "En E-Mail zum zruggsetze vom Passwort esch gschickt worde.",
+        "sent": "Es E-Mail zum zruggsetze vom Passwort esch gschickt worde.",
         "noMail": "Keis E-Mail becho? Überprüefed Sie Ihri Igab uf Tippfehler.",
         "resetPassword": "Passwort zruggsetze"
     },
