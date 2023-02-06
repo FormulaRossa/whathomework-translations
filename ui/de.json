@@ -19,20 +19,20 @@
         "invalidNewPassword": "Ungültiges neues Passwort",
         "repeatPassword": "Passwort wiederholen",
         "wrongRepeatPassword": "Passwörter stimmen nicht überein",
-        "accountCreated": "Account erfolgreich erstellt. Sie haben eine E-Mail erhalten, in der Sie ihre E-Mail bestätigen können. Dies müssen Sie tun, bevor Sie sich einloggen können. Prüfen Sie auch Ihr Spam-/Junkmail-Ordner."
+        "accountCreated": "Account erfolgreich erstellt. Sie haben eine E-Mail erhalten, in der Sie Ihre E-Mail bestätigen können. Dies müssen Sie tun, bevor Sie sich einloggen können. Prüfen Sie auch Ihr Spam-/Junkmail-Ordner."
     },
     "forgotPassword": {
         "forgotPassword": "Passwort vergessen?",
         "mail": "E-Mail",
-        "invalidMail": "Ungültige Email",
+        "invalidMail": "Ungültige E-Mail",
         "sent": "Eine E-Mail zum Zurücksetzen des Passworts wurde gesendet.",
-        "noMail": "Keine E-Mail erhalten? Überprüfen Sie ihre Eingabe auf Tippfehler.",
+        "noMail": "Keine E-Mail erhalten? Überprüfen Sie Ihre Eingabe auf Tippfehler.",
         "resetPassword": "Passwort zurücksetzen"
     },
     "internetModal": {
         "noConnection": "Keine Verbindung",
-        "connectionFailed": "Die Verbindung zum Server ist fehlgeschlagen. Prüfe deine Internetverbindung.",
-        "connected": "Du bist mit dem Internet verbunden? Prüfe hier den Status des Servers:",
+        "connectionFailed": "Die Verbindung zum Server ist fehlgeschlagen. Prüfen Sie Ihre Internetverbindung.",
+        "connected": "Sie sind mit dem Internet verbunden? Prüfen Sie hier den Status des Servers:",
         "status": "Status"
     },
     "verify": {
@@ -54,7 +54,7 @@
     },
     "deleteModal": {
         "confirm": "Löschbestätigung",
-        "confirmation": "Willst du diese Aufgabe wirklich löschen?",
+        "confirmation": "Wollen Sie diese Aufgabe wirklich löschen?",
         "cancel": "Abbrechen",
         "delete": "Löschen"
     },
