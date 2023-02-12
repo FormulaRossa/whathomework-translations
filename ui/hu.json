@@ -1,1 +1,8 @@
-{}
+{
+    "logout": "Kijelentkezés",
+    "whathomework": "What homework",
+    "login": {
+        "email": "E-mail",
+        "login": "Bejelentkezés"
+    }
+}
