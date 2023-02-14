@@ -3,6 +3,21 @@
     "whathomework": "What homework",
     "login": {
         "email": "E-mail",
-        "login": "Bejelentkezés"
+        "login": "Bejelentkezés",
+        "unverified": "Az ön e-mail címe még nincs megerősítve. Kellett volna kapnia egy e-mailt a weboldaltól. Ellenőrizze a spam levelek mappáját is.",
+        "password": "Jelszó",
+        "forgotPassword": "Elfelejtettem a jelszavamat",
+        "wrong": "Hibás felhasználónév vagy jelszó",
+        "noAccount": "Még nincs fiókja?",
+        "register": "Regisztrálni"
+    },
+    "register": {
+        "register": "Regisztrálni",
+        "mail": "e-mail",
+        "password": "Jelszó",
+        "emailExists": "Már létezik egy fiók ezzel az e-mail címmel.",
+        "invalidNewPassword": "Érvénytelen új jelszó",
+        "repeatPassword": "Jelszó megismétlése",
+        "wrongRepeatPassword": "A jelszavak nem egyeznek"
     }
 }
