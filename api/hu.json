@@ -1,1 +1,6 @@
-{}
+{
+    "verifyEmail": "Jó napot!\n\nKöszönjük, hogy regisztrált a {{{url}}} weboldalon.\nAz e-mail cim megerősítéséhez kattintson a következő linkre:\n\n{{{link}}}\n\nNem regisztráltál?\nAkkor egyszerűen figyelmen kívül hagyhatja ezt az e-mailt.\n\n******\nEz egy automatikusan generált e-mail. Kérjük, ne válaszoljon erre az e-mailre.\n******",
+    "verifyEmail.subject": "E-mail cím megerősítése",
+    "forgotPassword.subject": "Elfelejtettem a jelszavamat",
+    "forgotPassword": "Jó napot!\n\nÖn új jelszót kért a {{{url}}} weboldalhoz.\nJelszavának megváltoztatásához kattintson az alábbi linkre:\n\n{{{link}}}\n\nNem kért új jelszót?\nAkkor egyszerűen figyelmen kívül hagyhatja ezt az e-mailt.\n\n******\nEz egy automatikusan generált e-mail. Kérjük, ne válaszoljon erre az e-mailre.\n******"
+}
