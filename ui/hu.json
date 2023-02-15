@@ -18,6 +18,145 @@
         "emailExists": "Már létezik egy fiók ezzel az e-mail címmel.",
         "invalidNewPassword": "Érvénytelen új jelszó",
         "repeatPassword": "Jelszó megismétlése",
-        "wrongRepeatPassword": "A jelszavak nem egyeznek"
+        "wrongRepeatPassword": "A jelszavak nem egyeznek",
+        "accountCreated": "A fiók sikeresen lett létrehozva. Kapott egy e-mailt, amelyben megerősítheti az e-mail címét. Ezt meg kell tennie, mielőtt bejelentkezhetne. Ellenőrizze a spam/szemét levelek mappáját is."
+    },
+    "settings": {
+        "account": {
+            "changePassword": {
+                "oldPassword": "Régi jelszó",
+                "invalidNewPassword": "Érvénytelen új jelszó",
+                "changePassword": "Jelszó módosítása",
+                "oldPasswordWrong": "Régi jelszó rossz",
+                "newPassword": "Új jelszó",
+                "repeatNewPassword": "Jelszó megismétlése",
+                "passwordsDontMatch": "A jelszavak nem egyeznek",
+                "change": "Változtatás"
+            },
+            "account": "Fiók",
+            "language": "Nyelv"
+        },
+        "subjects": {
+            "name": "Név",
+            "subjects": "Tárgyak",
+            "subject": "Tárgy",
+            "active": "Aktív",
+            "add": "Hozzáadás"
+        },
+        "notifications": {
+            "notAvailable": "A Push-értesítések sajnos nem érhetőek el ebben a böngészőben.",
+            "notifications": "Értesítések",
+            "enable": "Értesítések bekapcsolása",
+            "disable": "Értesítések letiltása minden eszközön"
+        },
+        "settings": "Beállítások",
+        "admin": {
+            "name": "Név",
+            "admin": "Admin"
+        },
+        "calendar": {
+            "calendar": "Naptár",
+            "ics": "ICS-URL",
+            "regenerate": "Újra generálása"
+        }
+    },
+    "forgotPassword": {
+        "invalidMail": "Érvénytelen e-mail",
+        "sent": "Egy jelszó-visszaállítási e-mailt el lett küldve.",
+        "forgotPassword": "Elfelejtettem a jelszavamat?",
+        "mail": "e-mail",
+        "resetPassword": "Jelszó visszaállítása",
+        "noMail": "Nem kapott e-mailt? Ellenőrizze a bejegyzést gépelési hibák miatt."
+    },
+    "internetModal": {
+        "noConnection": "Nincs kapcsolat",
+        "connectionFailed": "A kapcsolat a kiszolgálóval meghiúsult. Ellenőrizze az internetkapcsolatát.",
+        "status": "Status",
+        "connected": "Van internetkapcsolata? Ellenőrizze a szerver állapotát itt:"
+    },
+    "verify": {
+        "invalidLink": "Link érvénytelen",
+        "success": "Megerősítés sikeres",
+        "toLogin": "A bejelentkezéshez"
+    },
+    "tasks": {
+        "tasks": "Feladatok",
+        "task": "Feladat",
+        "noTasks": "Nincsenek elérhető feladatok.",
+        "subject": "Tárgy",
+        "subjectNotSelected": "Ki kell választani egy tantárgyat.",
+        "title": "Feladat",
+        "titleEmpty": "Feladat nem lehet üres.",
+        "date": "Dátum",
+        "exam": "Vizsga",
+        "add": "Hozáadás"
+    },
+    "deleteModal": {
+        "confirm": "Törlés megerősítése",
+        "cancel": "Törölés",
+        "delete": "Törlés",
+        "confirmation": "Tényleg törölni szeretné ezt a feladatot?"
+    },
+    "setPassword": {
+        "setPassword": "Jelszó beállítása",
+        "repeatNewPassword": "Jelszó megismétlése",
+        "invalidNewPassword": "Érvénytelen új jelszó",
+        "password": "Jelszó",
+        "passwordsDontMatch": "A jelszavak nem egyeznek",
+        "passwordSet": "Jelszó sikeresen beállítva",
+        "toLogin": "A bejelentkezéshez",
+        "invalidLink": "Link érvénytelen"
+    },
+    "date": {
+        "days": {
+            "short": {
+                "1": "H",
+                "2": "K",
+                "3": "Sze",
+                "4": "Csüt",
+                "5": "P",
+                "6": "Szo",
+                "7": "Vas"
+            },
+            "long": {
+                "1": "Hétfő",
+                "2": "Kedd",
+                "3": "Szerda",
+                "4": "Csütörtök",
+                "5": "Péntek",
+                "6": "Szombat",
+                "7": "Vasárnap"
+            }
+        },
+        "months": {
+            "short": {
+                "1": "Jan",
+                "2": "Feb",
+                "3": "Márc",
+                "4": "Apr",
+                "5": "Máj",
+                "6": "Jun",
+                "7": "Jul",
+                "8": "Aug",
+                "9": "Szept",
+                "10": "Okt",
+                "11": "Nov",
+                "12": "Dec"
+            },
+            "long": {
+                "1": "Január",
+                "2": "Február",
+                "3": "Március",
+                "4": "Április",
+                "5": "Május",
+                "6": "Június",
+                "7": "Július",
+                "8": "Augusztus",
+                "9": "Szeptember",
+                "10": "Október",
+                "11": "November",
+                "12": "December"
+            }
+        }
     }
 }
