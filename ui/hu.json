@@ -6,7 +6,7 @@
         "login": "Bejelentkezés",
         "unverified": "Az ön e-mail címe még nincs megerősítve. Kellett volna kapnia egy e-mailt a weboldaltól. Ellenőrizze a spam levelek mappáját is.",
         "password": "Jelszó",
-        "forgotPassword": "Elfelejtettem a jelszavamat",
+        "forgotPassword": "Elfelejtettem a jelszavamat?",
         "wrong": "Hibás felhasználónév vagy jelszó",
         "noAccount": "Még nincs fiókja?",
         "register": "Regisztrálni"
