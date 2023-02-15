@@ -62,7 +62,7 @@
     },
     "forgotPassword": {
         "invalidMail": "Érvénytelen e-mail",
-        "sent": "Egy jelszó-visszaállítási e-mailt el lett küldve.",
+        "sent": "Egy jelszó-visszaállítási e-mail el lett küldve.",
         "forgotPassword": "Elfelejtettem a jelszavamat?",
         "mail": "e-mail",
         "resetPassword": "Jelszó visszaállítása",
