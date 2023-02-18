@@ -3,9 +3,132 @@
     "login": {
         "password": "Mot de passe",
         "noAccount": "Pas encore de compte ?",
-        "unverified": "Votre e-mail n'a pas encore été confirmé. Vous devriez avoir reçu un e-mail de ce site. Vérifiez également votre dossier spam/junkmail."
+        "unverified": "Votre e-mail n'a pas encore été confirmé. Vous devriez avoir reçu un e-mail de ce site. Vérifiez également votre dossier spam/junkmail.",
+        "forgotPassword": "Mot de passe oublié ?",
+        "wrong": "Nom d'utilisateur ou mot de passe incorrect",
+        "email": "E-Mail",
+        "login": "Se connecter",
+        "register": "S'inscrire"
     },
     "register": {
-        "emailExists": "Un compte avec cet e-mail existe déjà."
-    }
+        "emailExists": "Un compte avec cet e-mail existe déjà.",
+        "repeatPassword": "Répéter le mot de passe",
+        "wrongRepeatPassword": "Les mots de passe ne correspondent pas",
+        "accountCreated": "Compte créé avec succès. Vous avez reçu un e-mail dans lequel vous pouvez confirmer votre adresse e-mail. Vous devez le faire avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
+        "register": "S'inscrire",
+        "mail": "E-Mail",
+        "password": "Mot de passe",
+        "invalidNewPassword": "Nouveau mot de passe invalide"
+    },
+    "settings": {
+        "account": {
+            "changePassword": {
+                "passwordsDontMatch": "Les mots de passe ne correspondent pas",
+                "change": "Modifier",
+                "changePassword": "Modifier le mot de passe",
+                "newPassword": "Nouveau mot de passe",
+                "invalidNewPassword": "Nouveau mot de passe invalide",
+                "repeatNewPassword": "Répéter le mot de passe"
+            },
+            "language": "Langue",
+            "account": "Compte"
+        },
+        "notifications": {
+            "enable": "Activer les notifications",
+            "notifications": "Notifications",
+            "notAvailable": "Les notifications push ne sont malheureusement pas disponibles dans ce navigateur.",
+            "disable": "Désactiver les notifications sur tous les appareils"
+        },
+        "subjects": {
+            "active": "Actif",
+            "name": "Nom",
+            "add": "Ajouter",
+            "subject": "Matière"
+        },
+        "calendar": {
+            "calendar": "Calendrier",
+            "ics": "URL ICS",
+            "regenerate": "Générer à nouveau"
+        },
+        "admin": {
+            "admin": "Admin",
+            "name": "Nom"
+        }
+    },
+    "date": {
+        "months": {
+            "short": {
+                "1": "janvier",
+                "2": "février",
+                "3": "Mars"
+            }
+        },
+        "days": {
+            "long": {
+                "4": "Jeudi",
+                "5": "Vendredi",
+                "6": "Samedi",
+                "7": "Dimanche",
+                "1": "Lundi",
+                "2": "Mardi",
+                "3": "Mercredi"
+            },
+            "short": {
+                "1": "lun",
+                "2": "mar",
+                "4": "jeu",
+                "5": "ven",
+                "6": "sam",
+                "7": "dim",
+                "3": "mer"
+            }
+        }
+    },
+    "setPassword": {
+        "repeatNewPassword": "Répéter le mot de passe",
+        "setPassword": "Définir un mot de passe",
+        "invalidLink": "Lien non valide",
+        "invalidNewPassword": "Nouveau mot de passe invalide",
+        "password": "Mot de passe",
+        "passwordsDontMatch": "Les mots de passe ne correspondent pas",
+        "passwordSet": "Mot de passe défini avec succès",
+        "toLogin": "Se connecter"
+    },
+    "forgotPassword": {
+        "forgotPassword": "Mot de passe oublié ?",
+        "mail": "E-Mail",
+        "invalidMail": "E-mail non valide",
+        "sent": "Un e-mail de réinitialisation du mot de passe a été envoyé.",
+        "noMail": "Vous n'avez pas reçu d'e-mail ? Vérifiez que vous n'avez pas fait de faute de frappe.",
+        "resetPassword": "Réinitialiser le mot de passe"
+    },
+    "internetModal": {
+        "noConnection": "Pas de connexion",
+        "connectionFailed": "La connexion au serveur a échoué. Vérifiez votre connexion Internet.",
+        "connected": "Vous êtes connecté à Internet ? Vérifiez ici l'état du serveur :",
+        "status": "Statut"
+    },
+    "verify": {
+        "invalidLink": "Lien non valide",
+        "success": "Confirmation réussie",
+        "toLogin": "Se connecter"
+    },
+    "tasks": {
+        "tasks": "Tâches",
+        "task": "Tâche",
+        "noTasks": "Aucune tâche disponible.",
+        "subject": "Matière",
+        "subjectNotSelected": "Une matière doit être choisie.",
+        "title": "Tâche",
+        "titleEmpty": "La tâche ne peut pas être vide.",
+        "date": "Date",
+        "exam": "Examen",
+        "add": "Ajouter"
+    },
+    "deleteModal": {
+        "confirmation": "Voulez-vous vraiment supprimer cette tâche ?",
+        "cancel": "Annuler",
+        "delete": "Supprimer"
+    },
+    "logout": "Se déconnecter"
 }
