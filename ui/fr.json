@@ -14,7 +14,7 @@
         "emailExists": "Un compte avec cet e-mail existe déjà.",
         "repeatPassword": "Répéter le mot de passe",
         "wrongRepeatPassword": "Les mots de passe ne correspondent pas",
-        "accountCreated": "Votre compte a été crée. Vous avez reçu un e-mail dans lequel vous pouvez confirmez votre e-mail. Vous devez faire ceci avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
+        "accountCreated": "Votre compte a été créé. Vous avez reçu un e-mail dans lequel vous pouvez confirmer votre e-mail. Vous devez faire ceci avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
         "register": "S'inscrire",
         "mail": "E-Mail",
         "password": "Mot de passe",
@@ -62,8 +62,8 @@
     "date": {
         "months": {
             "short": {
-                "1": "janvier",
-                "2": "février",
+                "1": "Jan",
+                "2": "Fev",
                 "3": "Mars",
                 "4": "Avr",
                 "7": "Juil",
