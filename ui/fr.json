@@ -14,7 +14,7 @@
         "emailExists": "Un compte avec cet e-mail existe déjà.",
         "repeatPassword": "Répéter le mot de passe",
         "wrongRepeatPassword": "Les mots de passe ne correspondent pas",
-        "accountCreated": "Compte créé avec succès. Vous avez reçu un e-mail dans lequel vous pouvez confirmer votre adresse e-mail. Vous devez le faire avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
+        "accountCreated": "Votre compte a été crée. Vous avez reçu un e-mail dans lequel vous pouvez confirmez votre e-mail. Vous devez faire ceci avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
         "register": "S'inscrire",
         "mail": "E-Mail",
         "password": "Mot de passe",
@@ -28,7 +28,9 @@
                 "changePassword": "Modifier le mot de passe",
                 "newPassword": "Nouveau mot de passe",
                 "invalidNewPassword": "Nouveau mot de passe invalide",
-                "repeatNewPassword": "Répéter le mot de passe"
+                "repeatNewPassword": "Répéter le mot de passe",
+                "oldPassword": "Mot de passe antérieur",
+                "oldPasswordWrong": "Mot de passe précédent incorrect"
             },
             "language": "Langue",
             "account": "Compte"
@@ -43,7 +45,8 @@
             "active": "Actif",
             "name": "Nom",
             "add": "Ajouter",
-            "subject": "Matière"
+            "subject": "Matière",
+            "subjects": "Matières"
         },
         "calendar": {
             "calendar": "Calendrier",
@@ -53,14 +56,38 @@
         "admin": {
             "admin": "Admin",
             "name": "Nom"
-        }
+        },
+        "settings": "Paramètres"
     },
     "date": {
         "months": {
             "short": {
                 "1": "janvier",
                 "2": "février",
-                "3": "Mars"
+                "3": "Mars",
+                "4": "Avr",
+                "7": "Juil",
+                "8": "Aou",
+                "9": "Sep",
+                "10": "Oct",
+                "11": "Nov",
+                "12": "Dec",
+                "5": "Mai",
+                "6": "Juin"
+            },
+            "long": {
+                "1": "Janvier",
+                "2": "Février",
+                "3": "Mars",
+                "4": "Avril",
+                "5": "Mai",
+                "6": "Juin",
+                "8": "Août",
+                "9": "Septembre",
+                "10": "Octobre",
+                "11": "Novembre",
+                "12": "Décembre",
+                "7": "Juillet"
             }
         },
         "days": {
@@ -128,7 +155,8 @@
     "deleteModal": {
         "confirmation": "Voulez-vous vraiment supprimer cette tâche ?",
         "cancel": "Annuler",
-        "delete": "Supprimer"
+        "delete": "Supprimer",
+        "confirm": "Confirmation de suppression"
     },
     "logout": "Se déconnecter"
 }
