@@ -79,7 +79,8 @@
             "subject": "Fach",
             "active": "Aktiv",
             "name": "Name",
-            "add": "Hinzufügen"
+            "add": "Hinzufügen",
+            "delete": "Löschen"
         },
         "calendar": {
             "calendar": "Kalender",
