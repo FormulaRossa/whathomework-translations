@@ -46,7 +46,8 @@
             "name": "Nom",
             "add": "Ajouter",
             "subject": "Matière",
-            "subjects": "Matières"
+            "subjects": "Matières",
+            "delete": "Supprimer"
         },
         "calendar": {
             "calendar": "Calendrier",
