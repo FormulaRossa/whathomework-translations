@@ -26,7 +26,8 @@
             "subject": "Fach",
             "active": "Aktiv",
             "name": "Name",
-            "add": "Hinzuefüege"
+            "add": "Hinzuefüege",
+            "delete": "Lösche"
         },
         "calendar": {
             "calendar": "Kalender",
