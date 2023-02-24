@@ -41,7 +41,8 @@
             "subjects": "Tárgyak",
             "subject": "Tárgy",
             "active": "Aktív",
-            "add": "Hozzáadás"
+            "add": "Hozzáadás",
+            "delete": "Törlés"
         },
         "notifications": {
             "notAvailable": "A Push-értesítések sajnos nem érhetőek el ebben a böngészőben.",
