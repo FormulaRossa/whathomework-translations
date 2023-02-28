@@ -32,7 +32,7 @@
     "internetModal": {
         "noConnection": "No connection",
         "connectionFailed": "Cannot connect to the server. Please check your internet connection.",
-        "connected": "You are connected to the Internet? Check the status of the server here:",
+        "connected": "Are you connected to the Internet? Check the status of the server here:",
         "status": "Status"
     },
     "verify": {
