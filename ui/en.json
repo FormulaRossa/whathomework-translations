@@ -50,8 +50,7 @@
         "titleEmpty": "Task can't be empty.",
         "date": "Date",
         "exam": "Exam",
-        "add": "Add",
-        "filter": "Filter"
+        "add": "Add"
     },
     "deleteModal": {
         "confirm": "Delete confirmation",
