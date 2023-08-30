@@ -50,7 +50,8 @@
         "titleEmpty": "Auftrag kann nicht leer sein.",
         "date": "Datum",
         "exam": "Prüfung",
-        "add": "Hinzufügen"
+        "add": "Hinzufügen",
+        "edit": "Aktualisieren"
     },
     "deleteModal": {
         "confirm": "Löschbestätigung",
