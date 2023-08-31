@@ -94,6 +94,7 @@
         "date": "Datum",
         "exam": "Prüefig",
         "add": "Hinzuefüege",
+        "edit": "Ändere",
         "subjectNotSelected": "Es Fach muess usgwählt werde."
     },
     "setPassword": {

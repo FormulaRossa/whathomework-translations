@@ -90,7 +90,8 @@
         "titleEmpty": "Feladat nem lehet üres.",
         "date": "Dátum",
         "exam": "Vizsga",
-        "add": "Hozáadás"
+        "add": "Hozáadás",
+        "edit": "Aktualizálni"
     },
     "deleteModal": {
         "confirm": "Törlés megerősítése",

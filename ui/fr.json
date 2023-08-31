@@ -151,7 +151,8 @@
         "titleEmpty": "La tâche ne peut pas être vide.",
         "date": "Date",
         "exam": "Examen",
-        "add": "Ajouter"
+        "add": "Ajouter",
+        "edit": "Modifier"
     },
     "deleteModal": {
         "confirmation": "Voulez-vous vraiment supprimer cette tâche ?",
