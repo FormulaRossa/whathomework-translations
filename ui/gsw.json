@@ -43,6 +43,9 @@
         "admin": {
             "admin": "Admin",
             "name": "Name"
+        },
+        "about": {
+          "about": "Informatione"
         }
     },
     "login": {

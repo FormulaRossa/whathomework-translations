@@ -58,6 +58,9 @@
             "admin": "Admin",
             "name": "Nom"
         },
+        "about": {
+          "about": "Informations"
+        },
         "settings": "Paramètres"
     },
     "date": {

@@ -59,6 +59,9 @@
             "calendar": "Naptár",
             "ics": "ICS-URL",
             "regenerate": "Újra generálása"
+        },
+        "about": {
+          "about": "Információ"
         }
     },
     "forgotPassword": {

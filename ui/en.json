@@ -97,6 +97,9 @@
         "admin": {
             "admin": "Admin",
             "name": "Name"
+        },
+        "about": {
+          "about": "Information"
         }
     },
     "setPassword": {
