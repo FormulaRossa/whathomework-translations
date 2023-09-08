@@ -12,14 +12,20 @@
         "register": "Registrieren"
     },
     "register": {
-        "register": "Registrieren",
-        "mail": "E-Mail",
-        "password": "Passwort",
-        "emailExists": "Ein Account mit dieser E-Mail existiert bereits.",
-        "invalidNewPassword": "Ungültiges neues Passwort",
-        "repeatPassword": "Passwort wiederholen",
-        "wrongRepeatPassword": "Passwörter stimmen nicht überein",
-        "accountCreated": "Account erfolgreich erstellt. Sie haben eine E-Mail erhalten, in der Sie Ihre E-Mail bestätigen können. Dies müssen Sie tun, bevor Sie sich einloggen können. Prüfen Sie auch Ihr Spam-/Junkmail-Ordner."
+      "register": "Registrieren",
+      "mail": "E-Mail",
+      "password": "Passwort",
+      "emailExists": "Ein Account mit dieser E-Mail existiert bereits.",
+      "invalidNewPassword": "Ungültiges neues Passwort",
+      "repeatPassword": "Passwort wiederholen",
+      "wrongRepeatPassword": "Passwörter stimmen nicht überein",
+      "accountCreated": "Account erfolgreich erstellt. Sie haben eine E-Mail erhalten, in der Sie Ihre E-Mail bestätigen können. Dies müssen Sie tun, bevor Sie sich einloggen können. Prüfen Sie auch Ihr Spam-/Junkmail-Ordner.",
+      "tos": "Ich akzeptiere die Nutzungsbedingungen",
+      "tosLink": "Jetzt lesen",
+      "tosAccept": "Bitte akzeptieren Sie die Nutzungsbedingungen.",
+      "pp": "Ich akzeptiere die Datenschutzerklärung",
+      "ppLink": "Jetzt lesen",
+      "ppAccept": "Bitte akzeptieren Sie die Datenschutzerklärung."
     },
     "forgotPassword": {
         "forgotPassword": "Passwort vergessen?",

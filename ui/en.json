@@ -12,14 +12,20 @@
         "register": "Register"
     },
     "register": {
-        "register": "Register",
-        "mail": "Mail",
-        "password": "Password",
-        "emailExists": "Account with this email already exists.",
-        "invalidNewPassword": "Invalid new password",
-        "repeatPassword": "Repeat password",
-        "wrongRepeatPassword": "Passwords don't match",
-        "accountCreated": "Account created successfully. You have received an email where you can confirm your email. You must do this before you can log in. Also check your spam/junk mail folder."
+      "register": "Register",
+      "mail": "Mail",
+      "password": "Password",
+      "emailExists": "Account with this email already exists.",
+      "invalidNewPassword": "Invalid new password",
+      "repeatPassword": "Repeat password",
+      "wrongRepeatPassword": "Passwords don't match",
+      "accountCreated": "Account created successfully. You have received an email where you can confirm your email. You must do this before you can log in. Also check your spam/junk mail folder.",
+      "tos": "I accept the terms of service",
+      "tosLink": "Read now",
+      "tosAccept": "Please accept the terms of service.",
+      "pp": "I accept the privacy policy",
+      "ppLink": "Read now",
+      "ppAccept": "Please accept the privacy policy."
     },
     "forgotPassword": {
         "forgotPassword": "Forgot password?",

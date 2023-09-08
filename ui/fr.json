@@ -11,14 +11,20 @@
         "register": "S'inscrire"
     },
     "register": {
-        "emailExists": "Un compte avec cet e-mail existe déjà.",
-        "repeatPassword": "Répéter le mot de passe",
-        "wrongRepeatPassword": "Les mots de passe ne correspondent pas",
-        "accountCreated": "Votre compte a été créé. Vous avez reçu un e-mail dans lequel vous pouvez confirmer votre e-mail. Vous devez faire ceci avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
-        "register": "S'inscrire",
-        "mail": "E-Mail",
-        "password": "Mot de passe",
-        "invalidNewPassword": "Nouveau mot de passe invalide"
+      "emailExists": "Un compte avec cet e-mail existe déjà.",
+      "repeatPassword": "Répéter le mot de passe",
+      "wrongRepeatPassword": "Les mots de passe ne correspondent pas",
+      "accountCreated": "Votre compte a été créé. Vous avez reçu un e-mail dans lequel vous pouvez confirmer votre e-mail. Vous devez faire ceci avant de pouvoir vous connecter. Vérifiez également votre dossier spam/junkmail.",
+      "register": "S'inscrire",
+      "mail": "E-Mail",
+      "password": "Mot de passe",
+      "invalidNewPassword": "Nouveau mot de passe invalide",
+      "tos": "J'accepte les conditions d'utilisation",
+      "tosLink": "Lire maintenant",
+      "tosAccept": "Veuillez accepter les conditions d'utilisation.",
+      "pp": "J'accepte la politique de confidentialité",
+      "ppLink": "Lire maintenant",
+      "ppAccept": "Veuillez accepter la politique de confidentialité."
     },
     "settings": {
         "account": {

@@ -59,14 +59,20 @@
         "unverified": "Ihri E-Mail esch nonig bestätigt. Sie söttet es E-Mail vo dere Website erhalte ha. Prüefed Sie au ihre Spam-/Junkmail-Ordner."
     },
     "register": {
-        "register": "Registriere",
-        "mail": "E-Mail",
-        "password": "Passwort",
-        "emailExists": "En Account met dere E-Mail existiert scho.",
-        "invalidNewPassword": "Ungültigs neus Passwort",
-        "repeatPassword": "Passwort wederhole",
-        "wrongRepeatPassword": "Passwörter send ned glich",
-        "accountCreated": "De Account esch erfolgrich erstellt worde. Sie hend es E-Mail erhalte, i dere chönd Sie ihri E-Mail bestätige. Das müend Sie mache, vordem sie sich ilogge chönd. Prüfed sie au ihre Spam-/Junkmail-Ordner."
+      "register": "Registriere",
+      "mail": "E-Mail",
+      "password": "Passwort",
+      "emailExists": "En Account met dere E-Mail existiert scho.",
+      "invalidNewPassword": "Ungültigs neus Passwort",
+      "repeatPassword": "Passwort wederhole",
+      "wrongRepeatPassword": "Passwörter send ned glich",
+      "accountCreated": "De Account esch erfolgrich erstellt worde. Sie hend es E-Mail erhalte, i dere chönd Sie ihri E-Mail bestätige. Das müend Sie mache, vordem sie sich ilogge chönd. Prüfed sie au ihre Spam-/Junkmail-Ordner.",
+      "tos": "Ich akzeptiere d Nutzungsbedingige",
+      "tosLink": "Jetzt lese",
+      "tosAccept": "Bitte akzeptiered Sie d Nutzungsbedingige.",
+      "pp": "Ich akzeptiere die Datenschutzerklärung",
+      "ppLink": "Jetzt lese",
+      "ppAccept": "Bitte akzeptiered Sie d Datenschutzerklärung."
     },
     "forgotPassword": {
         "forgotPassword": "Passwort vergesse?",
