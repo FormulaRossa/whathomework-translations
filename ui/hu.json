@@ -19,7 +19,13 @@
         "invalidNewPassword": "Érvénytelen új jelszó",
         "repeatPassword": "Jelszó megismétlése",
         "wrongRepeatPassword": "A jelszavak nem egyeznek",
-        "accountCreated": "A fiók sikeresen lett létrehozva. Kapott egy e-mailt, amelyben megerősítheti az e-mail címét. Ezt meg kell tennie, mielőtt bejelentkezhetne. Ellenőrizze a spam/szemét levelek mappáját is."
+        "accountCreated": "A fiók sikeresen lett létrehozva. Kapott egy e-mailt, amelyben megerősítheti az e-mail címét. Ezt meg kell tennie, mielőtt bejelentkezhetne. Ellenőrizze a spam/szemét levelek mappáját is.",
+        "tos": "Elfogadom a felhasználási feltételeket",
+        "tosLink": "Most elolvasni",
+        "tosAccept": "Kérjük, fogadja el a felhasználási feltételeket.",
+        "pp": "Elfogadom az adatvédelmi szabályzatot",
+        "ppLink": "Most elolvasni",
+        "ppAccept": "Kérjük, fogadja el az adatvédelmi szabályzatot."
     },
     "settings": {
         "account": {
